@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: #fff;
+    background-color: whitesmoke;
     overflow-x: hidden;
 }
 
@@ -322,4 +322,5 @@ table td, th {
         -ms-transform: translateX(0);
         margin: 5px 3px;
     }
+
 }
